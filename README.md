@@ -1,7 +1,4 @@
-# Universal FDE
-
-## Train AI on real work. Then compile what it learns into software.
-## 让 AI 先学会真实业务，再把学会的东西编译成软件。
+# Universal FDE skill
 
 > **Stop automating from requirements. Train on reality.**  
 > **别再从需求文档开始猜业务。让 AI 直接从真实生产中学习。**
